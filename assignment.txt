@@ -1,0 +1,11 @@
+Wow an assignment title.
+
+This body text contains assignment details. This assignment is being worked on by more than just one person.
+
+Agenda:
+- meet with team members
+- discuss assignment details
+- work on the assignment
+
+Appendix:
+There is no appendix.

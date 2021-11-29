@@ -7,5 +7,7 @@ Agenda:
 - discuss assignment details
 - work on the assignment
 
+In this other branch we have added some changes to the assignment file.
+
 Appendix:
 There is no appendix.

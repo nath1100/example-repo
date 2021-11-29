@@ -8,6 +8,7 @@ Agenda:
 - work on the assignment
 
 In this other branch we have added some changes to the assignment file.
+This is a second edit to the file.
 
 Appendix:
 There is no appendix.
